@@ -51,7 +51,8 @@ Follow these steps to install and run the project:
 
 ## Preview of the Project
 
-(Include a screenshot or GIF of your project here)
+![Preview-1](/src/Screenshots/Preview-1.png)
+![Preview-2](/src/Screenshots/Preview-2.png)
 
 ## Contributing
 
